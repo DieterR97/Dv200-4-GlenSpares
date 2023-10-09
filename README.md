@@ -1,6 +1,6 @@
 # Dv200-4-GlenSpares
 
-GlenSpares Web Application
+## GlenSpares Web Application
 
 Overview
 
@@ -8,12 +8,12 @@ Welcome to the GlenSpares Web Application repository. This web application is bu
 
 Features
 
-Add new products to the shop
-Edit existing product details
-Delete existing products from inventory
-Add products to a shopping cart
-Checkout and generate invoices
-Update stock levels automatically during purchases
+- Add new products to the shop
+- Edit existing product details
+- Delete existing products from inventory
+- Add products to a shopping cart
+- Checkout and generate invoices
+- Update stock levels automatically during purchases
 
 Database
 
@@ -23,13 +23,11 @@ License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
+
 Project Created by:
 
 Dieter Roelofse | 221122
-
 Luca Breebaart | 221345
-
 Emily Fulford | 221075
-
 Jarryd Carelse | 221267
 
