@@ -1,6 +1,4 @@
-# Dv200-4-GlenSpares
-
-## GlenSpares Web Application
+# GlenSpares Web Application
 
 **Overview**
 
