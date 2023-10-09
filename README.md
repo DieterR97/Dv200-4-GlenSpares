@@ -26,6 +26,10 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 Project Created by:
 
 Dieter Roelofse | 221122
+
 Luca Breebaart | 221345
+
 Emily Fulford | 221075
+
 Jarryd Carelse | 221267
+
