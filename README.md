@@ -22,3 +22,10 @@ This application uses MongoDB as its database. Make sure you have MongoDB instal
 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Project Created by:
+
+Dieter Roelofse | 221122
+Luca Breebaart | 221345
+Emily Fulford | 221075
+Jarryd Carelse | 221267
